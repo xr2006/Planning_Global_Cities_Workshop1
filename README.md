@@ -1,4 +1,5 @@
-# Workshop1: Methods for spatiotemporal clustering of human mobility patterns
+# Workshop1
+## Methods for spatiotemporal clustering of human mobility patterns
 
 This repo contains a demo for K-Means and DTW Distance using a jupyter notebook. 
 
